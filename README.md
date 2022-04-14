@@ -1,5 +1,10 @@
-### Hi there 👋
-
+- 👋 Hi , I’m Artyom (xxkolibryxx)
+- 👀 I’m interesed in IT Sphere
+- 👀 I’m interesed in IT Photography 📸
+- 🌱 I’m currently learning Full Stack Web Developer
+- 🔭 I’m currently working on TUMO Creative Technologies Center
+- 📲 How to reach me on IG: https://www.instagram.com/artsystem_photo/
+- 📲 How to reach me on Linkedin: https://www.linkedin.com/in/artyom-harutyunyan-8870b1159
 <!--
 **xxkolibryxx/xxkolibryxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
