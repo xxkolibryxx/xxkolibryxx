@@ -1,6 +1,6 @@
 - 👋 Hi , I’m Artyom (xxkolibryxx)
 - 👀 I’m interesed in IT Sphere
-- 👀 I’m interesed in IT Photography 📸
+- 👀 I’m interesed in Photography 📸
 - 🌱 I’m currently learning Full Stack Web Developer
 - 🔭 I’m currently working on TUMO Creative Technologies Center
 - 📲 How to reach me on IG: https://www.instagram.com/artsystem_photo/
